@@ -1,3 +1,5 @@
+# Linus Wieland
+
 ## Berufiche Tätigkeiten
 
 ### Nov. 2017 - Heute
@@ -104,7 +106,7 @@ _Bambus Software GmbH, Ebikon_
 
 _IDC AG, Sarnen (Ehemals Luzern)_
 
-#### Entwurf & Implementierung
+#### Diplomarbeit Wirtschaftsinformatiker FH: Entwurf & Implementierung
 
 > Ablösung Verwaltungsmodul Kursbuchungssystem für ArchiCAD ua.
 * Frontend: Filemaker
