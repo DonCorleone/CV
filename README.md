@@ -1,3 +1,5 @@
+[a relative link](CV.md)
+
 # Linus Wieland
 
 ## Berufliche Tätigkeiten
