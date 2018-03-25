@@ -5,8 +5,8 @@
 		}
 	],
 	"settings": {
-		"markdown.styles": [
-			"./markdown-css-themes-gh-pages/markdown1.css"
-		],
+		// "markdown.styles": [
+		// 	"./markdown-css-themes-gh-pages/markdown1.css"
+		// ],
 	}
 }
