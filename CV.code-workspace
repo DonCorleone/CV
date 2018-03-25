@@ -5,8 +5,9 @@
 		}
 	],
 	"settings": {
-		// "markdown.styles": [
-		// 	"./markdown-css-themes-gh-pages/markdown1.css"
+		// "markdown-pdf.styles": [
+		// 	"./markdown-css-themes-gh-pages/markdown2.css"
 		// ],
+		"markdown-pdf.convertOnSave": true
 	}
 }
