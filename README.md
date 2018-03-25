@@ -1,13 +1,4 @@
-- [Linus Wieland](#linus-wieland)
-  * [Berufliche Tätigkeiten](#berufliche-tätigkeiten)
-    + [Nov. 2017 - Heute](#nov-2017---heute)
-    + [Nov. 2011 - Okt. 2017](#nov-2011---okt-2017)
-    + [Dez. 2010 - Okt. 2011](#dez-2010---okt-2011)
-    + [Nov. 2005 - Nov. 2010](#nov-2005---nov-2010)
-    + [Sept. 2002 - Okt. 2005](#sept-2002---okt-2005)
-    + [Mai 2002 - Jul. 2002](#mai-2002---jul-2002)
- 
- # Linus Wieland
+# Linus Wieland
 
 ## Berufliche Tätigkeiten
 
