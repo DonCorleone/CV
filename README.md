@@ -1,5 +1,3 @@
-# Linus Wieland
-
 ## Berufiche Tätigkeiten
 
 ### Nov. 2017 - Heute
