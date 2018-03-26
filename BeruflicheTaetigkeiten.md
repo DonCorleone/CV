@@ -59,7 +59,7 @@
 
 [_BBT Software AG, Root_](http://www.bbtsoftware.ch/)
 
-#### Fullstack- Applikationsentwickler / Prozessbereichs- Verantwortlicher](docs/Arbeitszeugnisse/2010_BBTAG.pdf)
+#### [Fullstack- Applikationsentwickler / Prozessbereichs- Verantwortlicher](/docs/Arbeitszeugnisse/2010_BBTAG.pdf)
 
 > Neuentwcklung Branchensoftware für Versicherungen „BBT Individual / BBT Enterprise“
 * Frontend: .NET WinForms
