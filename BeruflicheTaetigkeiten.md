@@ -4,11 +4,11 @@
 
 ### Nov. 2017 - Heute
 
-_W&W Immo Informatik AG, Affoltern am Albis_
+[_W&W Immo Informatik AG, Affoltern am Albis_](https://www.wwimmo.ch/home.html)
 
 #### Fullstack- Applikationsentwickler
 
-> Neuentwicklung ImmoTop II, Branchensoftware zur Immobilienverwaltung
+> Neuentwicklung [ImmoTop II](https://www.wwimmo.ch/produkte/immotop2.html), Branchensoftware zur Immobilienverwaltung
 * Frontend: .NET WPF mit MVVM-Pattern
 * Backend: .NET Applikationsserver (CSLA & W&W Eigenentwicklung)
 * Database: SAP SQL Anywhere
@@ -17,11 +17,11 @@ _W&W Immo Informatik AG, Affoltern am Albis_
 
 ### Nov. 2011 - Okt. 2017
 
-_Bambus Software GmbH, Kriens_
+[_Bambus Software GmbH, Kriens_](http://www.bambus-software.ch/#/home)
 
-#### Backend- Applikationsentwickler
+#### [Backend- Applikationsentwickler](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 
-> Neuentwicklung BAMBUS Office Manager Web, Online- CRM
+> Neuentwicklung [BAMBUS Office Manager Web](http://www.bambus-software.ch/#/software-loesung/bambus-office-manager), Online- CRM
 * Frontend: ASP.NET RAZOR Pages
 * Backend: .NET Applikationsserver (BAMBUS Eigenentwicklung)
 * Database: SQL Server

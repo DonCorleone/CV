@@ -6,9 +6,9 @@
 
 #### Design & Entwicklung Webapplikation
 
-> Neuentwicklung www.kinderkultur.ch als database-driven webapplication
-* Frontend: Angular 5 mit Webpack 3.6 Standallone mit Bootstrap 4
-* Backend: ASP.NET Core 2.0 Web-API mit REST
+> Neuentwicklung www.kinderkultur.ch als Webapplikation mit Datenbankanbindung, bereitgestellt als Docker-Container
+* Frontend: Angular 5 via Webpack Standalone mit Bootstrap 4
+* Backend: ASP.NET Core 2.0 Web-API (REST)
 * Database: MongoDB (Content), MariaDB (Authentifizierung)
 
 ---
