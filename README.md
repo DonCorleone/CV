@@ -1,4 +1,6 @@
 # Linus Wieland
 
-## [Berufliche Tätigkeiten](BeruflicheTaetigkeiten.md)
-## [Pet Project](PetProject.md)
+## Inhalt
+
+### [Berufliche Tätigkeiten](BeruflicheTaetigkeiten.md)
+### [Pet Project](PetProject.md)
