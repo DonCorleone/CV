@@ -8,7 +8,7 @@
 
 #### Fullstack- Applikationsentwickler
 
-> Neuentwicklung [ImmoTop II](https://www.wwimmo.ch/produkte/immotop2.html), Branchensoftware zur Immobilienverwaltung
+> Neuentwicklung [„ImmoTop II"](https://www.wwimmo.ch/produkte/immotop2.html), Branchensoftware zur Immobilienverwaltung
 * Frontend: .NET WPF mit MVVM-Pattern
 * Backend: .NET Applikationsserver (CSLA & W&W Eigenentwicklung)
 * Database: SAP SQL Anywhere
@@ -21,12 +21,12 @@
 
 #### [Backend- Applikationsentwickler](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 
-> Neuentwicklung [BAMBUS Office Manager Web](http://www.bambus-software.ch/#/software-loesung/bambus-office-manager), Online- CRM
+> Neuentwicklung [„BAMBUS Office Manager Web"](http://www.bambus-software.ch/#/software-loesung/bambus-office-manager), Online- CRM
 * Frontend: ASP.NET RAZOR Pages
 * Backend: .NET Applikationsserver (BAMBUS Eigenentwicklung)
 * Database: SQL Server
 
-#### Fullstack- Applikationsentwickler
+#### [Fullstack- Applikationsentwickler](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 
 > Wartung & Weiterentwicklung BAMBUS Office Manager WinForms, CRM
 * Frontend: .NET WinForms
@@ -37,16 +37,16 @@
 
 ### Dez. 2010 - Okt. 2011
 
-_Sientia AG, Dübendorf_
+[_Sientia AG, Dübendorf_](www.scayla.com)
 
-#### Fullstack- Applikationsentwickler Web Client
+#### [Fullstack- Applikationsentwickler Web Client](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
 
-> Neuentwicklung Online- ERP / CRM „Inquisiv“
+> Neuentwicklung Online- ERP / CRM [„Inquisiv“](www.inquisiv.com)
 * Frontend: JavaScript (ExtJS)
 * Backend: Ruby on Rails (Sientia Eigenentwicklung)
 * Database: MySQL
 
-#### Entwickler Fat Client
+#### [Entwickler Fat Client](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
 
 > Neuentwicklung ERP / CRM „Inquisiv“
 * Frontend: Adobe Flex
@@ -57,9 +57,9 @@ _Sientia AG, Dübendorf_
 
 ### Nov. 2005 - Nov. 2010
 
-_BBT Software AG, Root_
+[_BBT Software AG, Root_](http://www.bbtsoftware.ch/)
 
-#### Fullstack- Applikationsentwickler / Prozessbereichs- Verantwortlicher
+#### Fullstack- Applikationsentwickler / Prozessbereichs- Verantwortlicher](docs/Arbeitszeugnisse/2010_BBTAG.pdf)
 
 > Neuentwcklung Branchensoftware für Versicherungen „BBT Individual / BBT Enterprise“
 * Frontend: .NET WinForms
@@ -70,30 +70,30 @@ _BBT Software AG, Root_
 
 ### Sept. 2002 - Okt. 2005
 
-_Bambus Software GmbH, Ebikon_
+[_Bambus Software GmbH, Ebikon_](http://www.bambus-software.ch/#/home)
 
-#### Fullstack- Applikationsentwickler (Architektur & Programmierung)
+#### [Fullstack- Applikationsentwickler (Architektur & Programmierung)](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf)
 
 > Neuentwcklung Provisionierungssystem für Krankenkassen
 * Frontend: .NET WinForms
 * Backend: ADO.NET Applikationsserver (BAMBUS Eigenentwicklung)
 * Database: SQL Server
 
-#### Backend- Applikationsentwickler
+#### [Backend- Applikationsentwickler](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 
 > Neuentwcklung Online Prämienrechner für Krankenkassen
 * Frontend: ASP.NET
 * Backend: ADO.NET Applikationsserver (BAMBUS Eigenentwicklung)
 * Database: SQL Server
 
-#### Fullstack- Applikationsentwickler (Architektur & Programmierung)
+#### [Fullstack- Applikationsentwickler (Architektur & Programmierung)](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 
 > Neuentwcklung Offerterfassungssystem als Inhouse- und Maklerlösung für Krankenkassen
 * Frontend: MS Access (VBA)
 * Backend: -
 * Database: SQL Server
 
-#### Fullstack- Applikationsentwickler (Architektur & Programmierung)
+#### [Fullstack- Applikationsentwickler (Architektur & Programmierung)](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 
 > Neuentwcklung Arbeitszeiterfassungs- Tool für inhouse 
 * Frontend: MS Access (VBA)
@@ -104,11 +104,11 @@ _Bambus Software GmbH, Ebikon_
 
 ### Mai 2002 - Jul. 2002
 
-_IDC AG, Sarnen (Ehemals Luzern)_
+[_IDC AG, Sarnen (Ehemals Luzern)_](http://www.idc.ch/)
 
 #### Diplomarbeit Wirtschaftsinformatiker FH: Entwurf & Implementierung
 
-> Ablösung Verwaltungsmodul Kursbuchungssystem für ArchiCAD ua.
+> Ablösung Verwaltungsmodul [Kursbuchungssystem für ArchiCAD](http://www.ac-academy.ch/) ua.
 * Frontend: Filemaker
 * Backend: -
 * Database: Filemaker
