@@ -41,7 +41,7 @@
 
 #### [Fullstack- Applikationsentwickler Web Client](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
 
-> Neuentwicklung Online- ERP / CRM [„Inquisiv“](www.inquisiv.com)
+> Neuentwicklung Online- ERP / CRM „Inquisiv“
 * Frontend: JavaScript (ExtJS)
 * Backend: Ruby on Rails (Sientia Eigenentwicklung)
 * Database: MySQL
@@ -61,7 +61,7 @@
 
 #### [Fullstack- Applikationsentwickler / Prozessbereichs- Verantwortlicher](/docs/Arbeitszeugnisse/2010_BBTAG.pdf)
 
-> Neuentwcklung Branchensoftware für Versicherungen „BBT Individual / BBT Enterprise“
+> Neuentwcklung Branchensoftware für Versicherungen „[BBT Individual](http://www.bbtsoftware.ch/kranken-versicherung.html) / [BBT Enterprise](http://www.bbtsoftware.ch/unfall-versicherung.html)“
 * Frontend: .NET WinForms
 * Backend: .NET Applikationsserver (BBT Eigenentwicklung)
 * Database: SQL Server
