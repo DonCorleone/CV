@@ -1,5 +1,4 @@
-[Berufliche Tätigkeiten](CV.md)
-
 # Linus Wieland
 
-## Berufliche Tätigkeiten
+## [Berufliche Tätigkeiten](BeruflicheTaetigkeiten.md)
+## [Pet Project](PetProject.md)
