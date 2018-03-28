@@ -9,8 +9,8 @@
 #### Fullstack- Applikationsentwickler
 
 > Neuentwicklung [„ImmoTop II"](https://www.wwimmo.ch/produkte/immotop2.html), Branchensoftware zur Immobilienverwaltung
-* Frontend: .NET WPF mit MVVM-Pattern
-* Backend: .NET Applikationsserver (CSLA & W&W Eigenentwicklung)
+- [x] Frontend: .NET WPF mit MVVM-Pattern
+- [ ] Backend: .NET Applikationsserver (CSLA & W&W Eigenentwicklung)
 * Database: SAP SQL Anywhere
 
 ---
