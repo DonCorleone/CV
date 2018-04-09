@@ -36,6 +36,7 @@ _Bambus Software GmbH, Kriens_
 ### Fullstack- Applikationsentwickler
 
 > Wartung & Weiterentwicklung BAMBUS Office Manager WinForms, Verwaltung Konfigurations- und Steuerdaten für CRM
+
 * Frontend: .NET WinForms
 * Backend: - (Fat Client)
 * Database: SQL Server
