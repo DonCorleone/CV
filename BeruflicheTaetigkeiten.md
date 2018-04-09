@@ -4,30 +4,30 @@
 
 ## Nov. 2017 - Heute
 
->_W&W Immo Informatik AG, Affoltern am Albis_  
-[_\_ www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
->
->### Fullstack- Applikationsentwickler
->
-> Neuentwicklung "ImmoTop II", Branchensoftware zur Immobilienverwaltung  
-[\_ Produktseite "ImmoTop 2"](https://www.wwimmo.ch/produkte/immotop2.html)
->
->* Frontend: .NET WPF mit MVVM-Pattern
->* Backend: .NET Applikationsserver (CSLA mit W&W Eigenentwicklung)
->* Database: SAP SQL Anywhere
+_W&W Immo Informatik AG, Affoltern am Albis_  
+\_ [_www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
+
+### Fullstack- Applikationsentwickler
+
+> Neuentwicklung "ImmoTop II", Branchensoftware zur Immobilienverwaltung 
+\_ [Produktseite "ImmoTop 2"](https://www.wwimmo.ch/produkte/immotop2.html)
+
+* Frontend: .NET WPF mit MVVM-Pattern
+* Backend: .NET Applikationsserver (CSLA mit W&W Eigenentwicklung)
+* Database: SAP SQL Anywhere
 
 ---
 
 ## Nov. 2011 - Okt. 2017
 
 _Bambus Software GmbH, Kriens_  
-[_\_ www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
-[\_ Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
+\_ [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
+\_ [Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 ### Backend- Applikationsentwickler
 
 
-> Neuentwicklung „BAMBUS Office Manager Web", Online- CRM  
-[\_ Produktseite "Bambus Office Manager"](http://www.bambus-software.ch/#/software-loesung/bambus-office-manager)
+> Neuentwicklung „BAMBUS Office Manager Web", Online- CRM 
+\_ [Produktseite "Bambus Office Manager"](http://www.bambus-software.ch/#/software-loesung/bambus-office-manager)
 
 * Frontend: ASP.NET RAZOR Pages
 * Backend: .NET Applikationsserver (BAMBUS Eigenentwicklung)
@@ -44,14 +44,14 @@ _Bambus Software GmbH, Kriens_
 
 ## Dez. 2010 - Okt. 2011
 
-_Sientia AG, Dübendorf_  
-[_\_ www.scayla.com_](www.scayla.com)   
-[\_ Arbeitszeugnis](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
+_Sientia AG, Dübendorf_ 
+\_ [_www.scayla.com_](www.scayla.com)  
+\_ [Arbeitszeugnis](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
 
 ### Fullstack- Applikationsentwickler Web Client
 
-> Neuentwicklung Online- ERP / CRM „Inquisiv“   
-[\_ Produktseite Inquisiv](https://office.inquisiv.ch)
+> Neuentwicklung Online- ERP / CRM „Inquisiv“  
+\_ [Produktseite Inquisiv](https://office.inquisiv.ch)
 
 * Frontend: JavaScript (ExtJS)
 * Backend: Ruby on Rails (Sientia Eigenentwicklung)
@@ -59,8 +59,8 @@ _Sientia AG, Dübendorf_
 
 ### Entwickler Fat Client
 
-> Neuentwicklung ERP / CRM „Inquisiv“   
-[\_ Produktseite Inquisv](https://office.inquisiv.ch)  
+> Neuentwicklung ERP / CRM „Inquisiv“  
+\_ [Produktseite Inquisv](https://office.inquisiv.ch) 
 
 * Frontend: Adobe Flex
 * Backend: JAVA (Outsourced Eigenentwicklung)
@@ -71,16 +71,16 @@ _Sientia AG, Dübendorf_
 ## Nov. 2005 - Nov. 2010
 
 _BBT Software AG, Root_  
-[_\_ www.bbtsoftware.ch_](http://www.bbtsoftware.ch/)   
-[\_ Arbeitszeugnis](/docs/Arbeitszeugnisse/2010_BBTAG.pdf)
+\_ [_www.bbtsoftware.ch_](http://www.bbtsoftware.ch/)  
+\_ [Arbeitszeugnis](/docs/Arbeitszeugnisse/2010_BBTAG.pdf)
 
 ### Fullstack- Applikationsentwickler / Prozessbereichs- Verantwortlicher
 
 
-> Neuentwcklung Branchensoftware für Krankenkassen „BBT Individual"
-und Unfallversicherungen "BBT Enterprises"   
-[\_ Produktseite BBT Individual](http://www.bbtsoftware.ch/kranken-versicherung.html)  
-[\_ Produktseite BBT Enterprise](http://www.bbtsoftware.ch/unfall-versicherung.html)
+> Neuentwicklung Branchensoftware für Krankenkassen „BBT Individual"
+und Unfallversicherungen "BBT Enterprises"  
+\_ [Produktseite BBT Individual](http://www.bbtsoftware.ch/kranken-versicherung.html) 
+\_ [Produktseite BBT Enterprise](http://www.bbtsoftware.ch/unfall-versicherung.html)
 
 * Frontend: .NET WinForms
 * Backend: .NET Applikationsserver (BBT Eigenentwicklung)
@@ -90,14 +90,13 @@ und Unfallversicherungen "BBT Enterprises"
 
 ## Sept. 2002 - Okt. 2005
 
-_Bambus Software GmbH, Ebikon_   
-[_\_ www.bambus-software.ch_](http://www.bambus-software.ch/#/home)   
-[\_ Arbeitszeugnis](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf)
+_Bambus Software GmbH, Ebikon_  
+\_ [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
+\_ [Arbeitszeugnis](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf)
 
 ### Fullstack- Applikationsentwickler (Architektur & Programmierung)
 
-> Neuentwcklung Provisionierungssystem für Krankenkassen   
-[\_ Arbeitszeugnis](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf)
+> Neuentwicklung Provisionierungssystem für Krankenkassen
 
 * Frontend: .NET WinForms
 * Backend: ADO.NET Applikationsserver (BAMBUS Eigenentwicklung)
@@ -105,9 +104,8 @@ _Bambus Software GmbH, Ebikon_
 
 ### Backend- Applikationsentwickler
 
-> Neuentwcklung Online Prämienrechner für Krankenkassen   
-[\_ Arbeitszeugnis](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf)   
-[\_ Produktseite Prämienrechner (Innova)](https://offerten.innova.ch/cpw2.aspx)
+> Neuentwicklung Online Prämienrechner für Krankenkassen  
+\_ [Produktseite Prämienrechner (Innova)](https://offerten.innova.ch/cpw2.aspx)
 
 * Frontend: ASP.NET
 * Backend: ADO.NET Applikationsserver (BAMBUS Eigenentwicklung)
@@ -115,8 +113,7 @@ _Bambus Software GmbH, Ebikon_
 
 ### Fullstack- Applikationsentwickler (Architektur & Programmierung)
 
-> Neuentwcklung Offerterfassungssystem als Inhouse- und Maklerlösung für Krankenkassen   
-[\_ Arbeitszeugnis](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf)  
+> Neuentwicklung Offert-Erfassungssystem als Inhouse- und Maklerlösung für Krankenkassen
 
 * Frontend: MS Access (VBA)
 * Backend: -
@@ -124,8 +121,7 @@ _Bambus Software GmbH, Ebikon_
 
 ### Fullstack- Applikationsentwickler (Architektur & Programmierung)
 
-> Neuentwcklung Arbeitszeiterfassungs- Tool für inhouse   
-[\_ Arbeitszeugnis](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf)
+> Neuentwicklung Arbeitszeiterfassungs- Tool für inhouse
 
 * Frontend: MS Access (VBA)
 * Backend: -
@@ -135,14 +131,16 @@ _Bambus Software GmbH, Ebikon_
 
 ## Mai 2002 - Jul. 2002
 
-_IDC AG, Sarnen (Ehemals Luzern)_   
-[_\_ www.idc.ch_](http://www.idc.ch/)
+_IDC AG, Sarnen (Ehemals Luzern)_  
+\_ [_www.idc.ch_](http://www.idc.ch/)
 
 ### Diplomarbeit Wirtschaftsinformatiker FH: Entwurf & Implementierung
 
-> Ablösung Verwaltungsmodul Kursbuchungssystem für ArchiCAD ua.   
-[\_ Produktseite AC-Academy](http://www.ac-academy.ch/)
+> Ablösung Verwaltungsmodul Kursbuchungssystem für ArchiCAD ua.  
+\_ [Produktseite AC-Academy](http://www.ac-academy.ch/)
 
 * Frontend: Filemaker
 * Backend: -
 * Database: Filemaker
+
+
