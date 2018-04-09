@@ -44,7 +44,7 @@ _Bambus Software GmbH, Kriens_
 
 ## Dez. 2010 - Okt. 2011
 
-_Sientia AG, Dübendorf_ 
+_Sientia AG, Dübendorf_  
 \_ [_www.scayla.com_](www.scayla.com)  
 \_ [Arbeitszeugnis](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
 
