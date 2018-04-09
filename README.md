@@ -1,4 +1,3 @@
-## Inhalt
 
 ### [Berufliche Tätigkeiten](BeruflicheTaetigkeiten.md)
 
