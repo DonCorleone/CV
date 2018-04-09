@@ -11,8 +11,9 @@ _W&W Immo Informatik AG, Affoltern am Albis_
 
 > Neuentwicklung "ImmoTop II", Branchensoftware zur Immobilienverwaltung  
 [\_ Produktseite "ImmoTop 2"](https://www.wwimmo.ch/produkte/immotop2.html)
+
 * Frontend: .NET WPF mit MVVM-Pattern
-* Backend: .NET Applikationsserver (CSLA & W&W Eigenentwicklung)
+* Backend: .NET Applikationsserver (CSLA mit W&W Eigenentwicklung)
 * Database: SAP SQL Anywhere
 
 ---
@@ -27,6 +28,7 @@ _Bambus Software GmbH, Kriens_
 
 > Neuentwicklung „BAMBUS Office Manager Web", Online- CRM  
 [\_ Produktseite "Bambus Office Manager"](http://www.bambus-software.ch/#/software-loesung/bambus-office-manager)
+
 * Frontend: ASP.NET RAZOR Pages
 * Backend: .NET Applikationsserver (BAMBUS Eigenentwicklung)
 * Database: SQL Server
@@ -46,7 +48,7 @@ _Sientia AG, Dübendorf_
 [_\_ www.scayla.com_](www.scayla.com)   
 [\_ Arbeitszeugnis](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
 
-### [Fullstack- Applikationsentwickler Web Client]
+### Fullstack- Applikationsentwickler Web Client
 
 > Neuentwicklung Online- ERP / CRM „Inquisiv“   
 [\_ Produktseite Inquisiv](https://office.inquisiv.ch)
@@ -55,10 +57,11 @@ _Sientia AG, Dübendorf_
 * Backend: Ruby on Rails (Sientia Eigenentwicklung)
 * Database: MySQL
 
-### [Entwickler Fat Client](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
+### Entwickler Fat Client
 
 > Neuentwicklung ERP / CRM „Inquisiv“   
 [\_ Produktseite Inquisv](https://office.inquisiv.ch)  
+
 * Frontend: Adobe Flex
 * Backend: JAVA (Outsourced Eigenentwicklung)
 * Database: Postgres SQL, Mongo DB
@@ -91,7 +94,7 @@ _Bambus Software GmbH, Ebikon_
 [_\_ www.bambus-software.ch_](http://www.bambus-software.ch/#/home)   
 [\_ Arbeitszeugnis](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf)
 
-### [Fullstack- Applikationsentwickler (Architektur & Programmierung)
+### Fullstack- Applikationsentwickler (Architektur & Programmierung)
 
 > Neuentwcklung Provisionierungssystem für Krankenkassen   
 [\_ Arbeitszeugnis](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf)
