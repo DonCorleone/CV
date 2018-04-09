@@ -5,12 +5,12 @@
 ## Nov. 2017 - Heute
 
 _W&W Immo Informatik AG, Affoltern am Albis_  
-[_\> www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
+[_\_ www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
 
 ### Fullstack- Applikationsentwickler
 
 > Neuentwicklung "ImmoTop II", Branchensoftware zur Immobilienverwaltung  
-[\> www.wwimmo.ch/produkte/immotop2](https://www.wwimmo.ch/produkte/immotop2.html)
+[\_ www.wwimmo.ch/produkte/immotop2](https://www.wwimmo.ch/produkte/immotop2.html)
 * Frontend: .NET WPF mit MVVM-Pattern
 * Backend: .NET Applikationsserver (CSLA & W&W Eigenentwicklung)
 * Database: SAP SQL Anywhere
@@ -20,13 +20,13 @@ _W&W Immo Informatik AG, Affoltern am Albis_
 ## Nov. 2011 - Okt. 2017
 
 _Bambus Software GmbH, Kriens_  
-[_\> www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
-[\> Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
+[_\_ www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
+[\_ Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 ### Backend- Applikationsentwickler
 
 
 > Neuentwicklung „BAMBUS Office Manager Web", Online- CRM  
-[\> Produktseite](http://www.bambus-software.ch/#/software-loesung/bambus-office-manager)
+<!-- [\_ Produktseite](http://www.bambus-software.ch/#/software-loesung/bambus-office-manager) -->
 * Frontend: ASP.NET RAZOR Pages
 * Backend: .NET Applikationsserver (BAMBUS Eigenentwicklung)
 * Database: SQL Server
