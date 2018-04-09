@@ -26,7 +26,7 @@ _Bambus Software GmbH, Kriens_
 ### Backend- Applikationsentwickler
 
 
-> Neuentwicklung „BAMBUS Office Manager Web", Online- CRM 
+> Neuentwicklung „BAMBUS Office Manager Web", Online- CRM  
 \_ [Produktseite "Bambus Office Manager"](http://www.bambus-software.ch/#/software-loesung/bambus-office-manager)
 
 * Frontend: ASP.NET RAZOR Pages
