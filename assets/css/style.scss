@@ -1,4 +1,7 @@
-@import "jekyll-theme-slate";
+---
+---
+
+@import "{{ site.theme }}";
 
 h2{
     font-size: 1rem;
