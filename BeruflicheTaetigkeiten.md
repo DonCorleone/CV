@@ -7,14 +7,14 @@
 _W&W Immo Informatik AG, Affoltern am Albis_  
 [_\_ www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
 
-### Fullstack- Applikationsentwickler
-
+>### Fullstack- Applikationsentwickler
+>
 > Neuentwicklung "ImmoTop II", Branchensoftware zur Immobilienverwaltung  
 [\_ Produktseite "ImmoTop 2"](https://www.wwimmo.ch/produkte/immotop2.html)
-
-* Frontend: .NET WPF mit MVVM-Pattern
-* Backend: .NET Applikationsserver (CSLA mit W&W Eigenentwicklung)
-* Database: SAP SQL Anywhere
+>
+>* Frontend: .NET WPF mit MVVM-Pattern
+>* Backend: .NET Applikationsserver (CSLA mit W&W Eigenentwicklung)
+>* Database: SAP SQL Anywhere
 
 ---
 
