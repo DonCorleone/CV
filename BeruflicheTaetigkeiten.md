@@ -4,7 +4,7 @@
 
 ### Nov. 2017 - Heute
 
-[_W&W Immo Informatik AG, Affoltern am Albis_](https://www.wwimmo.ch/home.html)
+_W&W Immo Informatik AG, Affoltern am Albis_ [^ _www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
 
 #### Fullstack- Applikationsentwickler
 
