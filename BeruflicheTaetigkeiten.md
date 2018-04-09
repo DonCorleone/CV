@@ -4,7 +4,7 @@
 
 ### Nov. 2017 - Heute
 
-_W&W Immo Informatik AG, Affoltern am Albis_ [#_www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
+_W&W Immo Informatik AG, Affoltern am Albis_ [_¨www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
 
 #### Fullstack- Applikationsentwickler
 
@@ -17,9 +17,9 @@ _W&W Immo Informatik AG, Affoltern am Albis_ [#_www.wwimmo.ch_](https://www.wwim
 
 ### Nov. 2011 - Okt. 2017
 
-[_Bambus Software GmbH, Kriens_](http://www.bambus-software.ch/#/home)
+_Bambus Software GmbH, Kriens_ [_¨www.bambus-software.ch_](http://www.bambus-software.ch/#/home)
 
-#### [Backend- Applikationsentwickler](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
+#### Backend- Applikationsentwickler [¨Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 
 > Neuentwicklung [„BAMBUS Office Manager Web"](http://www.bambus-software.ch/#/software-loesung/bambus-office-manager), Online- CRM
 * Frontend: ASP.NET RAZOR Pages
