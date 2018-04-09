@@ -4,9 +4,9 @@
 
 ## Nov. 2017 - Heute
 
-_W&W Immo Informatik AG, Affoltern am Albis_  
+>_W&W Immo Informatik AG, Affoltern am Albis_  
 [_\_ www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
-
+>
 >### Fullstack- Applikationsentwickler
 >
 > Neuentwicklung "ImmoTop II", Branchensoftware zur Immobilienverwaltung  
