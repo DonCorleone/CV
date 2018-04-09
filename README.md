@@ -1,8 +1,8 @@
 
-[Inhalt](README.md)
+Inhalt
 
-## [Berufliche Tätigkeiten](BeruflicheTaetigkeiten.md)
+# [Berufliche Tätigkeiten](BeruflicheTaetigkeiten.md)
 
-## [Pet Project](PetProject.md)
+# [Pet Project](PetProject.md)
 
 ---
