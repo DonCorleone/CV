@@ -1,32 +1,32 @@
 [Übersicht](README.md)
 
-## Berufliche Tätigkeiten
+#- Berufliche Tätigkeiten
 
-### Nov. 2017 - Heute
+##- Nov. 2017 - Heute
 
-_W&W Immo Informatik AG, Affoltern am Albis_ [_# www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
+_W&W Immo Informatik AG, Affoltern am Albis_ [_- www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
 
-#### Fullstack- Applikationsentwickler
+###- Fullstack- Applikationsentwickler
 
-> Neuentwicklung "ImmoTop II", Branchensoftware zur Immobilienverwaltung [# www.wwimmo.ch/produkte/immotop2](https://www.wwimmo.ch/produkte/immotop2.html)
+> Neuentwicklung "ImmoTop II", Branchensoftware zur Immobilienverwaltung [- www.wwimmo.ch/produkte/immotop2](https://www.wwimmo.ch/produkte/immotop2.html)
 * Frontend: .NET WPF mit MVVM-Pattern
 * Backend: .NET Applikationsserver (CSLA & W&W Eigenentwicklung)
 * Database: SAP SQL Anywhere
 
 ---
 
-### Nov. 2011 - Okt. 2017
+##- Nov. 2011 - Okt. 2017
 
-_Bambus Software GmbH, Kriens_ [_# www.bambus-software.ch_](http://www.bambus-software.ch/#/home)
+_Bambus Software GmbH, Kriens_ [_- www.bambus-software.ch_](http://www.bambus-software.ch/#/home)
 
-#### Backend- Applikationsentwickler [# Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
+###- Backend- Applikationsentwickler [- Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 
-> Neuentwicklung „BAMBUS Office Manager Web", Online- CRM [# Produktseite](http://www.bambus-software.ch/#/software-loesung/bambus-office-manager)
+> Neuentwicklung „BAMBUS Office Manager Web", Online- CRM [- Produktseite](http://www.bambus-software.ch/#/software-loesung/bambus-office-manager)
 * Frontend: ASP.NET RAZOR Pages
 * Backend: .NET Applikationsserver (BAMBUS Eigenentwicklung)
 * Database: SQL Server
 
-#### Fullstack- Applikationsentwickler [# Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
+###- Fullstack- Applikationsentwickler [- Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 
 > Wartung & Weiterentwicklung BAMBUS Office Manager WinForms, Verwaltung Konfigurations- und Steuerdaten für CRM
 * Frontend: .NET WinForms
@@ -35,18 +35,18 @@ _Bambus Software GmbH, Kriens_ [_# www.bambus-software.ch_](http://www.bambus-so
 
 ---
 
-### Dez. 2010 - Okt. 2011
+##- Dez. 2010 - Okt. 2011
 
 [_Sientia AG, Dübendorf_](www.scayla.com)
 
-#### [Fullstack- Applikationsentwickler Web Client](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
+###- [Fullstack- Applikationsentwickler Web Client](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
 
 > Neuentwicklung Online- ERP / CRM „Inquisiv“
 * Frontend: JavaScript (ExtJS)
 * Backend: Ruby on Rails (Sientia Eigenentwicklung)
 * Database: MySQL
 
-#### [Entwickler Fat Client](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
+###- [Entwickler Fat Client](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
 
 > Neuentwicklung ERP / CRM „Inquisiv“
 * Frontend: Adobe Flex
@@ -55,11 +55,11 @@ _Bambus Software GmbH, Kriens_ [_# www.bambus-software.ch_](http://www.bambus-so
 
 ---
 
-### Nov. 2005 - Nov. 2010
+##- Nov. 2005 - Nov. 2010
 
 [_BBT Software AG, Root_](http://www.bbtsoftware.ch/)
 
-#### [Fullstack- Applikationsentwickler / Prozessbereichs- Verantwortlicher](/docs/Arbeitszeugnisse/2010_BBTAG.pdf)
+###- [Fullstack- Applikationsentwickler / Prozessbereichs- Verantwortlicher](/docs/Arbeitszeugnisse/2010_BBTAG.pdf)
 
 > Neuentwcklung Branchensoftware für Versicherungen „[BBT Individual](http://www.bbtsoftware.ch/kranken-versicherung.html) / [BBT Enterprise](http://www.bbtsoftware.ch/unfall-versicherung.html)“
 * Frontend: .NET WinForms
@@ -68,32 +68,32 @@ _Bambus Software GmbH, Kriens_ [_# www.bambus-software.ch_](http://www.bambus-so
 
 ---
 
-### Sept. 2002 - Okt. 2005
+##- Sept. 2002 - Okt. 2005
 
 [_Bambus Software GmbH, Ebikon_](http://www.bambus-software.ch/#/home)
 
-#### [Fullstack- Applikationsentwickler (Architektur & Programmierung)](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf)
+###- [Fullstack- Applikationsentwickler (Architektur & Programmierung)](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf)
 
 > Neuentwcklung Provisionierungssystem für Krankenkassen
 * Frontend: .NET WinForms
 * Backend: ADO.NET Applikationsserver (BAMBUS Eigenentwicklung)
 * Database: SQL Server
 
-#### [Backend- Applikationsentwickler](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
+###- [Backend- Applikationsentwickler](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 
 > Neuentwcklung Online Prämienrechner für Krankenkassen
 * Frontend: ASP.NET
 * Backend: ADO.NET Applikationsserver (BAMBUS Eigenentwicklung)
 * Database: SQL Server
 
-#### [Fullstack- Applikationsentwickler (Architektur & Programmierung)](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
+###- [Fullstack- Applikationsentwickler (Architektur & Programmierung)](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 
 > Neuentwcklung Offerterfassungssystem als Inhouse- und Maklerlösung für Krankenkassen
 * Frontend: MS Access (VBA)
 * Backend: -
 * Database: SQL Server
 
-#### [Fullstack- Applikationsentwickler (Architektur & Programmierung)](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
+###- [Fullstack- Applikationsentwickler (Architektur & Programmierung)](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 
 > Neuentwcklung Arbeitszeiterfassungs- Tool für inhouse 
 * Frontend: MS Access (VBA)
@@ -102,11 +102,11 @@ _Bambus Software GmbH, Kriens_ [_# www.bambus-software.ch_](http://www.bambus-so
 
 ---
 
-### Mai 2002 - Jul. 2002
+##- Mai 2002 - Jul. 2002
 
 [_IDC AG, Sarnen (Ehemals Luzern)_](http://www.idc.ch/)
 
-#### Diplomarbeit Wirtschaftsinformatiker FH: Entwurf & Implementierung
+###- Diplomarbeit Wirtschaftsinformatiker FH: Entwurf & Implementierung
 
 > Ablösung Verwaltungsmodul [Kursbuchungssystem für ArchiCAD](http://www.ac-academy.ch/) ua.
 * Frontend: Filemaker
