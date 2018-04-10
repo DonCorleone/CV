@@ -1,7 +1,7 @@
 
-Inhalt
+![](./docs/Foto/bewerbung.jpg)  
 
-![](./docs/Foto/bewerbung.jpg)
+Inhalt
 
 # [Berufliche Tätigkeiten](BeruflicheTaetigkeiten.md)
 
