@@ -80,7 +80,7 @@ _BBT Software AG, Root_
 
 > Neuentwicklung Branchensoftware für Krankenkassen „BBT Individual"
 und Unfallversicherungen "BBT Enterprises"  
-\_ [Produktseite "BBT Individual"](http://www.bbtsoftware.ch/kranken-versicherung.html) 
+\_ [Produktseite "BBT Individual"](http://www.bbtsoftware.ch/kranken-versicherung.html)  
 \_ [Produktseite "BBT Enterprise"](http://www.bbtsoftware.ch/unfall-versicherung.html)
 
 * Frontend: .NET WinForms
