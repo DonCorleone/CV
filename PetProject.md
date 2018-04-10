@@ -22,7 +22,7 @@
   * MongoDB Driver (MongoDB)
 
 * Database: SQL & NOSQL
-  * Content: MongoDB Entwicklung auf lokalem Server 
+  * Content: MongoDB Entwicklung auf lokalem Server
   * Authentifizierung: MariaDB (MySQL-Derrivat), auf Docker-Container
 * Versionsverwaltung: Git  
  \_ [GitHub- Repository](https://github.com/DonCorleone/KinderKultur_Docker)
