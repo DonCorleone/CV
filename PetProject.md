@@ -6,10 +6,25 @@
 
 ### Design & Entwicklung Webapplikation
 
-> Neuentwicklung www.kinderkultur.ch als Webapplikation mit Datenbankanbindung, bereitgestellt als Docker-Container
-* Frontend: Angular 5 via Webpack Standalone mit Bootstrap 4
+> Neuentwicklung www.kinderkultur.ch als Webapplikation mit Datenbankanbindung. Noch nicht produktiv.
+* Frontend: Browseranwendung
+  * TS- Framework: Angular 4 (Ejected Angular Cli)
+  * Bundling: Webpack 3.6
+  * CSS- Framework: Bootstrap 4 (SCSS)
+
 * Backend: ASP.NET Core 2.0 Web-API (REST)
-* Database: MongoDB (Content), MariaDB (Authentifizierung)
+  * CRUD
+  * API Versioning
+  * Authetifizierung via .NET Core Identity
+  * Logging via NLog
+  * EntityFramework Core (MariaDB)
+  * MongoDB Driver (MongoDB)
+
+* Database: SQL & NOSQL
+  * Content: MongoDB Entwicklung auf lokalem Server 
+  * Authentifizierung: MariaDB (MySQL-Derrivat), auf Docker-Container
+* Versionsverwaltung: Git  
+ \_ [GitHub- Repository](https://github.com/DonCorleone/KinderKultur_Docker)
 
 ---
 
@@ -17,8 +32,11 @@
 
 ### Technisches Design, Umsetzung & Wartung Website
 
-> Aufbau & Umsetzung responsive Website www.kinderkultur.ch
-* Frontend: HTML5, CSS3 mit Bootstrap 3.6
+> Entwurf & Umsetzung responsive Website (Ohne Design)  
+\_ [www.kinderkultur.ch](http://www.kinderkultur.ch)
+
+* Frontend:
+  * HTML5
+  * CSS3 mit Bootstrap 3.6
 * Backend: -
 * Database: -
-
