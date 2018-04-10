@@ -3,6 +3,6 @@ Inhalt
 
 # [Berufliche Tätigkeiten](BeruflicheTaetigkeiten.md)
 
-# [Pet Projects](PetProject.md)
+# [Ausbildung](Ausbildung.md)
 
----
+# [Pet Projects](PetProject.md)
