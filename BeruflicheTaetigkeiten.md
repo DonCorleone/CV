@@ -105,7 +105,7 @@ _Bambus Software GmbH, Ebikon_
 
 ### Backend- Applikationsentwickler
 
-> Neuentwicklung Online Prämienrechner für Krankenkassen  
+> Neuentwicklung Online Prämienrechner "CarePlus Web" für Krankenkassen  
 \_ [Produktseite Prämienrechner (Innova)](https://offerten.innova.ch/cpw2.aspx)
 
 * Frontend: ASP.NET
@@ -114,7 +114,7 @@ _Bambus Software GmbH, Ebikon_
 
 ### Fullstack- Applikationsentwickler (Architektur & Programmierung)
 
-> Neuentwicklung Offert-Erfassungssystem als Inhouse- und Maklerlösung für Krankenkassen
+> Neuentwicklung Offert-Erfassungssystem "CarePlus" als Inhouse- und Maklerlösung für Krankenkassen
 
 * Frontend: MS Access (VBA)
 * Backend: -
@@ -122,7 +122,7 @@ _Bambus Software GmbH, Ebikon_
 
 ### Fullstack- Applikationsentwickler (Architektur & Programmierung)
 
-> Neuentwicklung Arbeitszeiterfassungs- Tool für inhouse
+> Neuentwicklung Arbeitszeiterfassungs- Tool "TimeTool" für Inhouse
 
 * Frontend: MS Access (VBA)
 * Backend: -
