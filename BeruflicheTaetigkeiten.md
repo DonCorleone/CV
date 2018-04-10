@@ -52,7 +52,7 @@ _Sientia AG, Dübendorf_
 ### Fullstack- Applikationsentwickler Web Client
 
 > Neuentwicklung Online- ERP / CRM „Inquisiv“  
-\_ [Produktseite Inquisiv](https://office.inquisiv.ch)
+\_ [Produktseite "Inquisiv"](https://office.inquisiv.ch)
 
 * Frontend: JavaScript (ExtJS)
 * Backend: Ruby on Rails (Sientia Eigenentwicklung)
@@ -61,7 +61,7 @@ _Sientia AG, Dübendorf_
 ### Entwickler Fat Client
 
 > Neuentwicklung ERP / CRM „Inquisiv“  
-\_ [Produktseite Inquisv](https://office.inquisiv.ch) 
+\_ [Produktseite "Inquisv"](https://office.inquisiv.ch) 
 
 * Frontend: Adobe Flex
 * Backend: JAVA (Outsourced Eigenentwicklung)
@@ -80,8 +80,8 @@ _BBT Software AG, Root_
 
 > Neuentwicklung Branchensoftware für Krankenkassen „BBT Individual"
 und Unfallversicherungen "BBT Enterprises"  
-\_ [Produktseite BBT Individual](http://www.bbtsoftware.ch/kranken-versicherung.html) 
-\_ [Produktseite BBT Enterprise](http://www.bbtsoftware.ch/unfall-versicherung.html)
+\_ [Produktseite "BBT Individual"](http://www.bbtsoftware.ch/kranken-versicherung.html) 
+\_ [Produktseite "BBT Enterprise"](http://www.bbtsoftware.ch/unfall-versicherung.html)
 
 * Frontend: .NET WinForms
 * Backend: .NET Applikationsserver (BBT Eigenentwicklung)
@@ -138,7 +138,7 @@ _IDC AG, Sarnen (Ehemals Luzern)_
 ### Diplomarbeit Wirtschaftsinformatiker FH: Entwurf & Implementierung
 
 > Ablösung Verwaltungsmodul Kursbuchungssystem für ArchiCAD ua.  
-\_ [Produktseite AC-Academy](http://www.ac-academy.ch/)
+\_ [Produktseite "AC-Academy"](http://www.ac-academy.ch/)
 
 * Frontend: Filemaker
 * Backend: -
