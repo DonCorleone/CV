@@ -37,7 +37,7 @@ _Kreuzplatz, Lachen_
 ### Architektur und Raum (Bachelor / Intermediate)
 
 Wohnungsbau: Neugestaltung Haus für gemischte Wohngemeinschaften inkl. KITA  
-_Biel_
+_Unterer Quai, Biel_
 > Dozent: Lars Mischkulning, Architekt HTL BSA, Biel / Bienne
 
 ## Frühlingssemester 2010
