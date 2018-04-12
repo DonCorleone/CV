@@ -2,36 +2,61 @@
 
 ## Betriebssysteme
 
-### Microsoft Windows
-
 > Anwenden & Administrieren
 
-### MacOS
-
-> Anwenden & Administrieren
-
-### Linux / macOS-Unix
+* Microsoft Windows
+* MacOS
 
 > Anwenden
 
+* Linux / BSD-Unix (macOS)
+
 ## Programmiersprachen
+
+> Sehr gute Kenntnisse
 
 * C#
 * VB.NET
+* VBA
+
+> Gute Kenntnisse
+
+* JavaScript
+* TypeScript
 * Java
+
+> Kenntnisse
+
+* Flex (Actionscript)
+* Java
+* Delphi (Pascal)
+
 
 ## Frontend- Frameworks
 
+> Sehr gute Kenntnisse
+
 * WinForms (.NET)
 * WPF (.NET)
-* Flex (Adobe Flash)
+
+> Gute Kenntnisse
+
 * Angular 4
+
+> Kenntnisse
+
+* Flex (Adobe Flash)
 * GWT
 
 ## Backend- Frameworks
 
+> Sehr gute Kenntnisse
+
 * .NET
 * .NET Core
+
+> Kenntnisse
+
 * Rails (Rails)
 * Hybernate (Java)
 * GWT (Java)
@@ -40,45 +65,57 @@
 
 ### SQL
 
-* MS SQL
+> Sehr gute Kenntnisse
+
+* MS SQL Server
+* Sybase SQL Anywhere (SAP)
+
+> Gute Kenntnisse
+
 * MySQL / MariaDB
 * Postgres SQL
+* SQLite
 
-### NoSQL
+### NoSQL
+
+> Sehr gute Kenntnisse
 
 * MongoDB
 
-### Weitere
+### Weitere
+
+> Gute Kenntnisse
 
 * Microsoft Access
+
+> Kenntnisse
+
 * Filemaker Pro
 
 ## CAD / Layout / Publishing
 
+> Sehr gute Kenntnisse
+
+* Adobe Photoshop
+* Adobe Indesign
+* ArchiCAD
+
+> Kenntnisse
+
+* Adobe Illustrator
+
 ## Sprachen
 
-### Deutsch
+> Sehr gute Kenntnisse
 
-### Englisch
+* Deutsch (Muttersprache)
+* Italienisch (Sprechen)
 
-### Italienisch
+> Gute Kenntnisse
 
-### Französsich
+* Englisch (Sprechen & Schreiben)
+* Italienisch (Schreiben)
 
+> Kenntnisse
 
-
-Linux (Ubuntu)
-, VB, VBA
-JAVA, JavaScript, Flex (Actionscript) C, C++, Delphi, Ruby
-.NET
-Pure MVC, Caingorm Rails
-MS SQL Server / MS Access Postgres SQL / SQLite / MySQL
-Adobe Photoshop / Adobe Indesign ArchiCAD
-Deutsch Englisch Italienisch Französisch
- Anwenden & Administrieren Anwenden
-Sehr gute Kenntnisse Gute Kenntnisse Mässige Kenntnisse
-Sehr gute Kenntnisse Gute Kenntnisse Mässige Kenntnisse
-Sehr gute Kenntnisse Gute Kenntnisse
-Sehr gute Kenntnisse Sehr gute Kenntnisse
-Muttersprache
-Sehr gut reden und schreiben Sehr gut reden, mässig schreiben Gut reden, mässig schreiben
+* Französsich (Sprechen)

@@ -1,5 +1,5 @@
 
-![](./docs/Foto/bewerbung.jpg)  
+![Foto](./docs/Foto/bewerbung.jpg)
 
 Inhalt
 
