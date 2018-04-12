@@ -14,8 +14,8 @@ Zivilstand:
 > Verheiratet mit Natalie Wieland- Hofer
 
 Kinder:
-> Leyla Zaha Viola (*2014)  
-> Neva Sejima Alÿs (*2015)
+> Leyla Zaha Viola (\*2014)  
+Neva Sejima Alÿs (\*2015)
 
 
 ## Verbindungsdaten
