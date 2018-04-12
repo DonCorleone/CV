@@ -5,11 +5,11 @@ Inhalt
 
 ### [Persönliche Angaben](./PersoenlicheAngaben.md)
 
-### [Berufliche Tätigkeiten](BeruflicheTaetigkeiten.md)
+### [Berufliche Tätigkeiten](BeruflicheTaetigkeiten.md)
 
 ### [Ausbildung](Ausbildung.md)
 
-### [Kentnisse](./Kenntnisse.md)
+### [Kenntnisse](./Kenntnisse.md)
 
 ### [Architektur](Architektur.md)
 
