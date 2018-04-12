@@ -60,7 +60,7 @@
 > Kenntnisse
 
 * Rails (Rails)
-* Hybernate (Java)
+* Hibernate (Java)
 * GWT (Java)
 
 ## Datenbanksysteme
@@ -75,7 +75,7 @@
 > Gute Kenntnisse
 
 * MySQL / MariaDB
-* Postgres SQL
+* Postgresql
 * SQLite
 
 ### NoSQL
@@ -120,4 +120,4 @@
 
 > Kenntnisse
 
-* Französsich (Sprechen)
+* Französisch (Sprechen)
