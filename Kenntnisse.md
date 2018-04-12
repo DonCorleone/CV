@@ -97,7 +97,7 @@
 > Sehr gute Kenntnisse
 
 * Adobe Photoshop
-* Adobe Indesign
+* Adobe InDesign
 * ArchiCAD
 
 > Kenntnisse
