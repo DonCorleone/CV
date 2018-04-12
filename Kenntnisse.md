@@ -6,11 +6,11 @@
 
 > Anwenden & Administrieren
 
-### macOS
+### MacOS
 
 > Anwenden & Administrieren
 
-### Linux / macOS-Unix
+### Linux / macOS-Unix
 
 > Anwenden
 
