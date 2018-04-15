@@ -6,7 +6,7 @@
 
 ### Design & Entwicklung Webapplikation
 
-> Neuentwicklung www.kinderkultur.ch als Webapplikation mit Datenbankanbindung. Noch nicht produktiv.
+> Neuentwicklung www.kinderkultur.ch als Webapplikation mit Datenbankanbindung mit dem Ziel, als eigenständiges CMS fungieren zu können. Noch nicht produktiv.
 
 * Frontend: Browseranwendung
   * TS- Framework: Angular 4 (Ejected Angular Cli)
