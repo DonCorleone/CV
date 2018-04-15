@@ -37,7 +37,7 @@
 \_ [www.kinderkultur.ch](http://www.kinderkultur.ch)
 
 * Frontend:
-  * [HTML5](https://www.w3.org/TR/html5/)
-  * CSS3 mit [Bootstrap 3.6](http://bootstrapdocs.com/v3.3.6/docs/getting-started/)
+  * \_ [HTML5](https://www.w3.org/TR/html5/)
+  * CSS3 mit \_ [Bootstrap 3.6](http://bootstrapdocs.com/v3.3.6/docs/getting-started/)
 * Backend: -
 * Database: -
