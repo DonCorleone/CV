@@ -20,7 +20,7 @@ _W&W Immo Informatik AG, Affoltern am Albis_
 
 ## Nov. 2011 - Okt. 2017
 
-_Bambus Software GmbH, Kriens_ 
+_Bambus Software GmbH, Kriens_  
 \_ [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
 \_ [Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 ### Backend- Applikationsentwickler
@@ -45,7 +45,7 @@ _Bambus Software GmbH, Kriens_
 
 ## Dez. 2010 - Okt. 2011
 
-_Sientia AG, Dübendorf_ 
+_Sientia AG, Dübendorf_  
 \_ [_www.scayla.com_](http://www.scayla.com)  
 \_ [Arbeitszeugnis](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
 
