@@ -24,9 +24,22 @@
 * Database: SQL & NOSQL
   * Content:  [MongoDB](https://www.mongodb.com) Entwicklung auf lokalem Server
   * Authentifizierung: [MariaDB](https://mariadb.org/) (MySQL-Derrivat), auf [Docker](https://www.docker.com)-Container
-* Versionsverwaltung: [Git](https://git-scm.com)  
- [GitHub- Repository](https://github.com/DonCorleone/KinderKultur_Docker)
 
+* Versionsverwaltung
+    * [Git](https://git-scm.com) auf [GitHub- Repository](https://github.com/DonCorleone/KinderKultur_Docker)
+
+* Enwicklungsumgebung Hardware
+  * Apple MacBook Pro
+
+* Entwicklungsumgebung Software:
+  * MacOS 10.3 (High Sierra)
+  * Visual Studio Code (TypeScript, HTML, SCSS, C#, MongoShell)
+  * Postman (API-Testing)
+  * Robo 3T (Mongo-DB)
+  * Sequel Pro (Maria-DB)
+
+* Produktivumgebung Hardware (Noch nicht online)
+  * Synology Diskstation (Dockerfähiger Webserver mit RAID 2)
 ---
 
 ## Nov. 2016 - Heute
