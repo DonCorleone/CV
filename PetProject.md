@@ -32,7 +32,7 @@
   * Apple MacBook Pro
 
 * Entwicklungsumgebung Software:
-  * MacOS 10.3 (High Sierra)
+  * MacOS 10.13 (High Sierra)
   * Visual Studio Code (TypeScript, HTML, SCSS, C#, MongoShell)
   * Postman (API-Testing)
   * Robo 3T (Mongo-DB)
