@@ -4,12 +4,12 @@
 
 ## Nov. 2017 - Heute
 
-_W&W Immo Informatik AG, Affoltern am Albis_ 
+_W&W Immo Informatik AG, Affoltern am Albis_  
 \_ [_www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
 
 ### Fullstack- Applikationsentwickler
 
-> Neuentwicklung "ImmoTop II", Branchensoftware zur Immobilienverwaltung 
+> Neuentwicklung "ImmoTop II", Branchensoftware zur Immobilienverwaltung  
 \_ [Produktseite "ImmoTop II"](https://www.wwimmo.ch/produkte/immotop2.html)
 
 * Frontend: .NET WPF mit MVVM-Pattern
@@ -21,12 +21,12 @@ _W&W Immo Informatik AG, Affoltern am Albis_
 ## Nov. 2011 - Okt. 2017
 
 _Bambus Software GmbH, Kriens_ 
-\_ [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home) 
+\_ [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
 \_ [Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 ### Backend- Applikationsentwickler
 
 
-> Neuentwicklung „BAMBUS Office Manager Web", Online- CRM 
+> Neuentwicklung „BAMBUS Office Manager Web", Online- CRM  
 \_ [Produktseite "Bambus Office Manager"](http://www.bambus-software.ch/#/software-loesung/bambus-office-manager)
 
 * Frontend: ASP.NET RAZOR Pages
@@ -46,12 +46,12 @@ _Bambus Software GmbH, Kriens_
 ## Dez. 2010 - Okt. 2011
 
 _Sientia AG, Dübendorf_ 
-\_ [_www.scayla.com_](http://www.scayla.com) 
+\_ [_www.scayla.com_](http://www.scayla.com)  
 \_ [Arbeitszeugnis](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
 
 ### Fullstack- Applikationsentwickler Web Client
 
-> Neuentwicklung Online- ERP / CRM „Inquisiv“ 
+> Neuentwicklung Online- ERP / CRM „Inquisiv“  
 \_ [Produktseite "Inquisiv"](https://office.inquisiv.ch)
 
 * Frontend: JavaScript (ExtJS)
@@ -60,7 +60,7 @@ _Sientia AG, Dübendorf_
 
 ### Entwickler Fat Client
 
-> Neuentwicklung ERP / CRM „Inquisiv“ 
+> Neuentwicklung ERP / CRM „Inquisiv“  
 \_ [Produktseite "Inquisv"](https://office.inquisiv.ch)
 
 * Frontend: Adobe Flex
@@ -71,16 +71,16 @@ _Sientia AG, Dübendorf_
 
 ## Nov. 2005 - Nov. 2010
 
-_BBT Software AG, Root_ 
-\_ [_www.bbtsoftware.ch_](http://www.bbtsoftware.ch/) 
+_BBT Software AG, Root_  
+\_ [_www.bbtsoftware.ch_](http://www.bbtsoftware.ch/)  
 \_ [Arbeitszeugnis](/docs/Arbeitszeugnisse/2010_BBTAG.pdf)
 
 ### Full Stack- Applikationsentwickler / Prozessbereichs- Verantwortlicher
 
 
 > Neuentwicklung Branchensoftware für Krankenkassen „BBT Individual"
-und Unfallversicherungen "BBT Enterprises" 
-\_ [Produktseite "BBT Individual"](http://www.bbtsoftware.ch/kranken-versicherung.html) 
+und Unfallversicherungen "BBT Enterprises"  
+\_ [Produktseite "BBT Individual"](http://www.bbtsoftware.ch/kranken-versicherung.html)  
 \_ [Produktseite "BBT Enterprise"](http://www.bbtsoftware.ch/unfall-versicherung.html)
 
 * Frontend: .NET WinForms
@@ -91,8 +91,8 @@ und Unfallversicherungen "BBT Enterprises"
 
 ## Sept. 2002 - Okt. 2005
 
-_Bambus Software GmbH, Ebikon_ 
-\_ [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home) 
+_Bambus Software GmbH, Ebikon_  
+\_ [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
 \_ [Arbeitszeugnis](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf)
 
 ### Fullstack- Applikationsentwickler (Architektur & Programmierung)
@@ -105,7 +105,7 @@ _Bambus Software GmbH, Ebikon_
 
 ### Backend- Applikationsentwickler
 
-> Neuentwicklung Online Prämienrechner "CarePlus Web" für Krankenkassen 
+> Neuentwicklung Online Prämienrechner "CarePlus Web" für Krankenkassen  
 \_ [Produktseite Prämienrechner (Innova)](https://offerten.innova.ch/cpw2.aspx)
 
 * Frontend: ASP.NET
@@ -132,12 +132,12 @@ _Bambus Software GmbH, Ebikon_
 
 ## Mai 2002 - Jul. 2002
 
-_IDC AG, Sarnen (Ehemals Luzern)_ 
+_IDC AG, Sarnen (Ehemals Luzern)_  
 \_ [_www.idc.ch_](http://www.idc.ch/)
 
 ### Diplomarbeit Wirtschaftsinformatiker FH: Entwurf & Implementierung
 
-> Ablösung Verwaltungsmodul Kursbuchungssystem für ArchiCAD ua. 
+> Ablösung Verwaltungsmodul Kursbuchungssystem für ArchiCAD ua.  
 \_ [Produktseite "AC-Academy"](http://www.ac-academy.ch/)
 
 * Frontend: Filemaker
