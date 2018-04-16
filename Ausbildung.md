@@ -33,7 +33,7 @@ _Microsoft learning_
 _Hochschule für Wirtschaft, Luzern_  
 \- [www.hslu.ch/wirtschaft/](https://www.hslu.ch/de-ch/wirtschaft/)
 
-### Dipl. Wirtschaftsinformatiker FH ()
+### Dipl. Wirtschaftsinformatiker FH
 
 > Vollzeit  
 \- [Diplom](./docs/Zeugnisse/BSc_Wirtschaftsinformatik_Diplom.pdf)  
