@@ -25,3 +25,20 @@ Wohnsitz:
 
 eMail:
 > [vitocorleone77@gmail.com](mailto:vitocorleone77@gmail.com)
+
+## Interessen:
+
+* Architektur  
+* Design  
+* Kunst  
+* Musik  (Von Beastie Boys bis Giuseppe Verdi)  
+* Film (Arthouse Movies)  
+* Makroökonomie  
+
+## Sport:
+
+* Snowboarden  
+* Pumptrack-Skateboarden  
+* Downhill-Skateboarden  
+* Wakeboarden  
+* Bouldern   
