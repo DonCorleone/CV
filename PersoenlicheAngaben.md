@@ -1,6 +1,6 @@
-[Übersicht](README.md)
-
 # <a name="1"></a>Persönliche Angaben
+
+<div class="page"/>
 
 ## Familie
 
@@ -43,3 +43,7 @@ eMail:
 * Downhill-Skateboarden
 * Wakeboarden
 * Bouldern
+
+<div class="page"/>
+
+[Übersicht](README.md)

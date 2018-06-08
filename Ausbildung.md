@@ -1,6 +1,6 @@
-[.](.)
-
 # <a name="3"></a>Ausbildung
+
+<div class="page"/>
 
 ## Sept. 2009 - Mai 2014
 

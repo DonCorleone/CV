@@ -3,7 +3,7 @@
 
 # CV Linus Wieland
 
-Wirtschaftsinformatiker FH / Architekt BA FH
+Wirtschaftsinformatiker FH / Bachelor of Arts in Architecture
 
 ![Foto](./docs/Foto/bewerbung.jpg)
 

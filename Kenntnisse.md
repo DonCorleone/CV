@@ -1,6 +1,6 @@
-[Übersicht](README.md)
-
 # <a name="4"></a>Fach- / Sprachkenntnisse
+
+<div class="page"/>
 
 ## Betriebssysteme
 
@@ -121,3 +121,7 @@
 > Kenntnisse
 
 * Französisch (Sprechen)
+
+<div class="page"/>
+
+[Übersicht](README.md)
