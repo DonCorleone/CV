@@ -1,4 +1,4 @@
-[Übersicht](README.md)
+[.](.)
 
 # <a name="3"></a>Ausbildung
 
@@ -64,10 +64,6 @@ _Erich Wolf, Dipl. Arch ETH/SIA, Lenzerheide_
 \- [Diplom](./docs/Zeugnisse/HBZ_Diplom.pdf)  
 \- [Zeugnisse](./docs/Zeugnisse/HBZ_Noten.pdf)
 
+<div class="page"/>
 
-> 
-
-
-
-
-
+[Übersicht](README.md)

@@ -1,7 +1,5 @@
 
-{% if site.show_downloads %}
-[Übersicht](README.md)
-{% endif %}
+[.](#5)
 
 # <a name="5"></a>Projektmodule Architekturstudium
 
@@ -60,3 +58,7 @@ _Kastanienbaum, Horw_
 Neubau Museum für Gegenwartskunst für feste Sammlung  
 _Spier, Horw_
 > Dozent: Raphael Schmid, Dipl. Architekt FH SIA, Raphael Schmid Architekten AG, Zürich
+
+<div class="page"/>
+
+[Übersicht](README.md)
