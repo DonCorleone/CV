@@ -1,4 +1,7 @@
+
+{% if site.show_downloads %}
 [Übersicht](README.md)
+{% endif %}
 
 # <a name="5"></a>Projektmodule Architekturstudium
 
