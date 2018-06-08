@@ -2,7 +2,7 @@
 
 # <a name="2"></a>Berufliche Tätigkeiten
 
-## Nov. 2017 - Heute
+## Nov. 2016 - Heute
 
 _W&W Immo Informatik AG, Affoltern am Albis_  
 \- [_www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
@@ -18,7 +18,7 @@ _W&W Immo Informatik AG, Affoltern am Albis_
 
 ---
 
-## Nov. 2011 - Okt. 2017
+## Nov. 2011 - Okt. 2016
 
 _Bambus Software GmbH, Kriens_  
 \- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
