@@ -1,9 +1,7 @@
 
-<a name="0">
-
 # CV Linus Wieland
 
-Wirtschaftsinformatiker FH / Bachelor of Arts in Architecture
+<a name="0"></a>Wirtschaftsinformatiker FH / Bachelor of Arts in Architecture
 
 ![Foto](./docs/Foto/bewerbung.jpg)
 

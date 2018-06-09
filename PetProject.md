@@ -2,7 +2,7 @@
 
 <div class="page"/>
 
-## Nov. 2017 - Heute
+## Feb. 2017 - Heute
 
 ### Design & Entwicklung Webapplikation
 
@@ -43,7 +43,7 @@
   
 ---
 
-## Nov. 2016 - Heute
+## Nov. 2015 - Heute
 
 ### Technisches Design, Umsetzung & Wartung Website
 
