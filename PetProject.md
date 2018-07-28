@@ -9,18 +9,21 @@
 > Neuentwicklung www.kinderkultur.ch als Webapplikation mit Datenbankanbindung mit dem Ziel, als eigenständiges CMS fungieren zu können. Noch nicht produktiv.
 
 * Frontend: Browseranwendung
-  * [TS](https://www.typescriptlang.org)- Framework: [Angular 4](https://v4.angular.io/docs) mit [Ejected Angular Cli](https://github.com/angular/angular-cli/wiki/eject)  
+  * [TS](https://www.typescriptlang.org)- Framework: [Angular 6](https://angular.io/docs) mit [Ejected Angular Cli](https://github.com/angular/angular-cli/wiki/eject)  
   * Bundling: [Webpack 3.6](https://webpack.js.org)
   * CSS- Framework: [Bootstrap 4](https://getbootstrap.com) mit [SASS / SCSS](https://sass-lang.com)
 
-* Backend: [ASP.NET Core 2.0](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.0) Web-API (REST)
+* Backend: [ASP.NET Core 2.1](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.1) Web-API (REST)
   * CRUD & Patch
   * API Versioning
   * Authetifizierung via [.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-2.1&tabs=visual-studio%2Caspnetcore2x) und [JWT](https://tools.ietf.org/html/rfc7519)
   * Logging via [NLog](http://nlog-project.org)
   * [EntityFramework Core](https://docs.microsoft.com/en-us/ef/core/) auf [MariaDB](https://mariadb.org/)
   * [.Net MongoDB Driver](https://docs.mongodb.com/ecosystem/drivers/csharp/) auf [MongoDB](https://www.mongodb.com)
-
+  * Swagger ([NSwag](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-nswag?view=aspnetcore-2.1&tabs=visual-studio%2Cvisual-studio-xml))
+  * Repository Pattern with Dependency Injection and ViewModels
+  * [AutoMapper](http://automapper.readthedocs.io) via Dependency Injection
+  
 * Database: SQL & NOSQL
   * Content:  [MongoDB](https://www.mongodb.com) Entwicklung auf lokalem Server
   * Authentifizierung: [MariaDB](https://mariadb.org/) (MySQL-Derrivat), auf [Docker](https://www.docker.com)-Container
