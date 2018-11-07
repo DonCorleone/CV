@@ -42,7 +42,7 @@
 | .NET                 | .NET Core MVC   | Rails              |
 | .NET Core            |                 | Hibernate (Java)   |
 
-## DB-Systeme Relational
+## DB-Systeme
 
 | Sehr gute Kenntnisse | Gute Kenntnisse | Mässige Kenntnisse |
 |----------------------|-----------------|--------------------|
