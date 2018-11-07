@@ -54,18 +54,18 @@ _Sientia AG, Dübendorf_
 > Neuentwicklung Online- ERP / CRM „Inquisiv“  
 \- [Produktseite "Inquisiv"](https://office.inquisiv.ch)
 
-* Frontend: JavaScript (ExtJS)
-* Backend: Ruby on Rails (Sientia Eigenentwicklung)
-* Database: MySQL
+| Frontend           | Backend                                  | Database |
+|--------------------|------------------------------------------|----------|
+| JavaScript (ExtJS) | Ruby on Rails (Sientia Eigenentwicklung) | MySQL    |
 
 ### Entwickler Fat Client
 
 > Neuentwicklung ERP / CRM „Inquisiv“  
 \- [Produktseite "Inquisv"](https://office.inquisiv.ch)
 
-* Frontend: Adobe Flex
-* Backend: JAVA (Outsourced Eigenentwicklung)
-* Database: Postgresql, MongoDB
+| Frontend   | Backend                            | Database            |
+|------------|------------------------------------|---------------------|
+| Adobe Flex | JAVA (Outsourced Eigenentwicklung) | Postgresql, MongoDB |
 
 ---
 
@@ -77,15 +77,14 @@ _BBT Software AG, Root_
 
 ### Full Stack- Applikationsentwickler / Prozessbereichs- Verantwortlicher
 
-
 > Neuentwicklung Branchensoftware für Krankenkassen „BBT Individual"
 und Unfallversicherungen "BBT Enterprises"  
 \- [Produktseite "BBT Individual"](http://www.bbtsoftware.ch/kranken-versicherung.html)  
 \- [Produktseite "BBT Enterprise"](http://www.bbtsoftware.ch/unfall-versicherung.html)
 
-* Frontend: .NET WinForms
-* Backend: .NET Applikationsserver (BBT Eigenentwicklung)
-* Database: SQL Server
+| Frontend      | Backend                                        | Database   |
+|---------------|------------------------------------------------|------------|
+| .NET WinForms | .NET Applikationsserver (BBT Eigenentwicklung) | SQL Server |
 
 ---
 
@@ -99,34 +98,34 @@ _Bambus Software GmbH, Ebikon_
 
 > Neuentwicklung Provisionierungssystem für Krankenkassen
 
-* Frontend: .NET WinForms
-* Backend: ADO.NET Applikationsserver (BAMBUS Eigenentwicklung)
-* Database: SQL Server
+| Frontend      | Backend                                              | Database   |
+|---------------|------------------------------------------------------|------------|
+| .NET WinForms | ADO.NET Applikationsserver (BAMBUS Eigenentwicklung) | SQL Server |
 
 ### Backend- Applikationsentwickler
 
 > Neuentwicklung Online Prämienrechner "CarePlus Web" für Krankenkassen  
 \- [Produktseite Prämienrechner (Innova)](https://offerten.innova.ch/cpw2.aspx)
 
-* Frontend: ASP.NET
-* Backend: ADO.NET Applikationsserver (BAMBUS Eigenentwicklung)
-* Database: SQL Server
+| Frontend | Backend                                              | Database   |
+|----------|------------------------------------------------------|------------|
+| ASP.NET  | ADO.NET Applikationsserver (BAMBUS Eigenentwicklung) | SQL Server |
 
 ### Fullstack- Applikationsentwickler (Architektur & Programmierung)
 
 > Neuentwicklung Offert-Erfassungssystem "CarePlus" als Inhouse- und Makler-Lösung für Krankenkassen
 
-* Frontend: MS Access (VBA)
-* Backend: -
-* Database: SQL Server
+| Frontend        | Backend | Database   |
+|-----------------|---------|------------|
+| MS Access (VBA) | -       | SQL Server |
 
 ### Fullstack- Applikationsentwickler (Architektur & Programmierung)
 
 > Neuentwicklung Arbeitszeiterfassungs- Tool "Time Tool" für Inhouse
 
-* Frontend: MS Access (VBA)
-* Backend: -
-* Database: MS Access
+| Frontend        | Backend | Database  |
+|-----------------|---------|-----------|
+| MS Access (VBA) | -       | MS Access |
 
 ---
 
@@ -140,9 +139,9 @@ _IDC AG, Sarnen (Ehemals Luzern)_
 > Ablösung Verwaltungsmodul Kursbuchungssystem für ArchiCAD ua.  
 \- [Produktseite "AC-Academy"](http://www.ac-academy.ch/)
 
-* Frontend: Filemaker
-* Backend: -
-* Database: Filemaker
+| Frontend      | Backend | Database      |
+|---------------|---------|---------------|
+| Filemaker Pro | -       | Filemaker Pro |
 
 <div class="page"/>
 
