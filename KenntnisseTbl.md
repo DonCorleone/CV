@@ -17,7 +17,6 @@
 | Microsoft Windows | Linux / BSD-Unix (macOS) |
 | macOS             |                          |
 
-
 ## Programmiersprachen
 
 | Sehr gute Kenntnisse | Gute Kenntnisse | Mässige Kenntnisse  |

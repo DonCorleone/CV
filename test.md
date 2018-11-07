@@ -1,6 +1,3 @@
-| Sehr gute Kenntnisse | Gute Kenntnisse | Mässige Kenntnisse  |
-|----------------------|-----------------|---------------------|
-| C#                   | JavaScript      | Flex (Actionscript) |
-| VB.NET               | TypeScript      | Delphi (Pascal)     |
-|                      | Java            |                     |
-|                      | VBA             |                     |
+| Frontend                  | Backend                                                 | Database         |
+|---------------------------|---------------------------------------------------------|------------------|
+| .NET WPF mit MVVM-Pattern | .NET Applikationsserver (CSLA mit W&W Eigenentwicklung) | SAP SQL Anywhere |
