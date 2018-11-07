@@ -37,10 +37,9 @@
 
 > Zur Zeit im Lern- / Zertifizierungsprozess:
 
-* [Microsoft Professional Program for Front-End Web Development (3 von 12)](https://academy.microsoft.com/en-us/professional-program/tracks/front-end-development)
-
-* [HTML5 from W3C (2 von 3)](https://credentials.edx.org/records/programs/shared/8949ac2a95bc40e5b8a93fefbfcfb340/)
-* [W3C Front-End Web Developer (3 von 5)](https://credentials.edx.org/records/programs/shared/ec6cf99790064cbaaccaf6d99578a361/)
+* [Microsoft Professional Program for Front-End Web Development](https://academy.microsoft.com/en-us/professional-program/tracks/front-end-development) (Stand: 3 von 12)
+* [HTML5 from W3C](https://credentials.edx.org/records/programs/shared/8949ac2a95bc40e5b8a93fefbfcfb340/) (Stand: 2 von 3)
+* [W3C Front-End Web Developer](https://credentials.edx.org/records/programs/shared/ec6cf99790064cbaaccaf6d99578a361/) (Stand: 3 von 5)
 
 
 ## Frontend- Frameworks
