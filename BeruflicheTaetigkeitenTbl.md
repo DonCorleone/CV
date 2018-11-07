@@ -37,9 +37,9 @@ _Bambus Software GmbH, Kriens_
 
 > Wartung & Weiterentwicklung BAMBUS Office Manager WinForms, Verwaltung Konfigurations- und Steuerdaten für CRM
 
-* Frontend: .NET WinForms
-* Backend: - (Fat Client)
-* Database: SQL Server
+| Frontend      | Backend        | Database   |
+|---------------|----------------|------------|
+| .NET WinForms | - (Fat Client) | SQL Server |
 
 ---
 
