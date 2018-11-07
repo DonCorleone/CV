@@ -15,6 +15,7 @@ _W&W Immo Informatik AG, Affoltern am Albis_
 | Frontend                  | Backend                                                 | Database         |
 |---------------------------|---------------------------------------------------------|------------------|
 | .NET WPF mit MVVM-Pattern | .NET Applikationsserver (CSLA mit W&W Eigenentwicklung) | SAP SQL Anywhere |
+
 ---
 
 ## Nov. 2011 - Okt. 2016
