@@ -11,7 +11,6 @@
 
 > Gute Kenntnisse
 
-* HTML5 / CSS
 * JavaScript
 * TypeScript
 * Java
