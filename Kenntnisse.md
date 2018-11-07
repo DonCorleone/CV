@@ -61,7 +61,7 @@
 * Hibernate (Java)
 * GWT (Java)
 
-## DB Systeme Relational
+## DB-Systeme Relational
 
 > Sehr gute Kenntnisse
 
@@ -75,7 +75,7 @@
 * SQLite
 * Microsoft Access
 
-## DB Systeme NoSQL / Nicht-Relational
+## DB-Systeme NoSQL / Nicht-Relational
 
 > Sehr gute Kenntnisse
 
