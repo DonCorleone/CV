@@ -7,7 +7,7 @@
 > Anwenden & Administrieren
 
 * Microsoft Windows
-* MacOS
+* macOS
 
 > Anwenden
 
@@ -19,19 +19,28 @@
 
 * C#
 * VB.NET
-* VBA
 
 > Gute Kenntnisse
 
+* HTML5 / CSS
 * JavaScript
 * TypeScript
 * Java
+* VBA
 
-> Kenntnisse
+> Mässige Kenntnisse
 
 * Flex (Actionscript)
-* Java
 * Delphi (Pascal)
+
+## Webtechnologien
+
+> Zur Zeit im Lern- / Zertifizierungsprozess:
+
+* [Microsoft Professional Program for Front-End Web Development (3 von 12)](https://academy.microsoft.com/en-us/professional-program/tracks/front-end-development)
+
+* [HTML5 from W3C (2 von 3)](https://credentials.edx.org/records/programs/shared/8949ac2a95bc40e5b8a93fefbfcfb340/)
+* [W3C Front-End Web Developer (3 von 5)](https://credentials.edx.org/records/programs/shared/ec6cf99790064cbaaccaf6d99578a361/)
 
 
 ## Frontend- Frameworks
@@ -43,10 +52,12 @@
 
 > Gute Kenntnisse
 
-* Angular 4
+* Angular 2+
 
-> Kenntnisse
+> Mässige Kenntnisse
 
+* React
+* Vue
 * Flex (Adobe Flash)
 * GWT
 
@@ -57,7 +68,7 @@
 * .NET
 * .NET Core
 
-> Kenntnisse
+> Mässige Kenntnisse
 
 * Rails (Rails)
 * Hibernate (Java)
@@ -77,20 +88,15 @@
 * MySQL / MariaDB
 * Postgresql
 * SQLite
+* Microsoft Access
 
-### NoSQL
+### NoSQL / Nicht-Relationale DBs
 
 > Sehr gute Kenntnisse
 
 * MongoDB
 
-### Weitere
-
-> Gute Kenntnisse
-
-* Microsoft Access
-
-> Kenntnisse
+> Mässige Kenntnisse
 
 * Filemaker Pro
 
@@ -102,7 +108,7 @@
 * Adobe InDesign
 * ArchiCAD
 
-> Kenntnisse
+> Mässige Kenntnisse
 
 * Adobe Illustrator
 
@@ -118,7 +124,7 @@
 * Englisch (Sprechen & Schreiben)
 * Italienisch (Schreiben)
 
-> Kenntnisse
+> Mässige Kenntnisse
 
 * Französisch (Sprechen)
 
