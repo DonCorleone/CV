@@ -2,17 +2,6 @@
 
 <div class="page"/>
 
-## Betriebssysteme
-
-> Anwenden & Administrieren
-
-* Microsoft Windows
-* macOS
-
-> Anwenden
-
-* Linux / BSD-Unix (macOS)
-
 ## Programmiersprachen
 
 > Sehr gute Kenntnisse
@@ -40,7 +29,6 @@
 * [Microsoft Professional Program for Front-End Web Development](https://academy.microsoft.com/en-us/professional-program/tracks/front-end-development) (Stand: 3 von 12)
 * [HTML5 from W3C](https://credentials.edx.org/records/programs/shared/8949ac2a95bc40e5b8a93fefbfcfb340/) (Stand: 2 von 3)
 * [W3C Front-End Web Developer](https://credentials.edx.org/records/programs/shared/ec6cf99790064cbaaccaf6d99578a361/) (Stand: 3 von 5)
-
 
 ## Frontend- Frameworks
 
@@ -73,9 +61,7 @@
 * Hibernate (Java)
 * GWT (Java)
 
-## Datenbanksysteme
-
-### SQL
+## DB Systeme Relational
 
 > Sehr gute Kenntnisse
 
@@ -89,7 +75,7 @@
 * SQLite
 * Microsoft Access
 
-### NoSQL / Nicht-Relationale DBs
+## DB Systeme NoSQL / Nicht-Relational
 
 > Sehr gute Kenntnisse
 
@@ -98,6 +84,17 @@
 > Mässige Kenntnisse
 
 * Filemaker Pro
+
+## Betriebssysteme
+
+> Anwenden & Administrieren
+
+* Microsoft Windows
+* macOS
+
+> Anwenden
+
+* Linux / BSD-Unix (macOS)
 
 ## CAD / Layout / Publishing
 
