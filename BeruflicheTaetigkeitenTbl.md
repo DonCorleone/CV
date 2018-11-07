@@ -16,15 +16,13 @@ _W&W Immo Informatik AG, Affoltern am Albis_
 |---------------------------|---------------------------------------------------------|------------------|
 | .NET WPF mit MVVM-Pattern | .NET Applikationsserver (CSLA mit W&W Eigenentwicklung) | SAP SQL Anywhere |
 
----
-
 ## Nov. 2011 - Okt. 2016
 
 _Bambus Software GmbH, Kriens_  
 \- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
 \- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
-### Backend- Applikationsentwickler
 
+### Backend- Applikationsentwickler
 
 > Neuentwicklung „BAMBUS Office Manager Web", Online- CRM  
 \- [Produktseite "Bambus Office Manager"](http://www.bambus-software.ch/#/software-loesung/bambus-office-manager)
@@ -40,8 +38,6 @@ _Bambus Software GmbH, Kriens_
 | Frontend      | Backend        | Database   |
 |---------------|----------------|------------|
 | .NET WinForms | - (Fat Client) | SQL Server |
-
----
 
 ## Dez. 2010 - Okt. 2011
 
@@ -67,8 +63,6 @@ _Sientia AG, Dübendorf_
 |------------|------------------------------------|---------------------|
 | Adobe Flex | JAVA (Outsourced Eigenentwicklung) | Postgresql, MongoDB |
 
----
-
 ## Nov. 2005 - Nov. 2010
 
 _BBT Software AG, Root_  
@@ -85,8 +79,6 @@ und Unfallversicherungen "BBT Enterprises"
 | Frontend      | Backend                                        | Database   |
 |---------------|------------------------------------------------|------------|
 | .NET WinForms | .NET Applikationsserver (BBT Eigenentwicklung) | SQL Server |
-
----
 
 ## Sept. 2002 - Okt. 2005
 
@@ -126,8 +118,6 @@ _Bambus Software GmbH, Ebikon_
 | Frontend        | Backend | Database  |
 |-----------------|---------|-----------|
 | MS Access (VBA) | -       | MS Access |
-
----
 
 ## Mai 2002 - Jul. 2002
 
