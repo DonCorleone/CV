@@ -18,7 +18,7 @@
 
 ## Nov. 2011 - Okt. 2016
 
-_Bambus Software GmbH, Kriens_  
+> _Bambus Software GmbH, Kriens_  
 \- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
 \- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
 
@@ -41,7 +41,7 @@ _Bambus Software GmbH, Kriens_
 
 ## Dez. 2010 - Okt. 2011
 
-_Sientia AG, Dübendorf_  
+> _Sientia AG, Dübendorf_  
 \- [_www.scayla.com_](http://www.scayla.com)  
 \- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
 
@@ -65,7 +65,7 @@ _Sientia AG, Dübendorf_
 
 ## Nov. 2005 - Nov. 2010
 
-_BBT Software AG, Root_  
+> _BBT Software AG, Root_  
 \- [_www.bbtsoftware.ch_](http://www.bbtsoftware.ch/)  
 \- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2010_BBTAG.pdf)
 
@@ -82,7 +82,7 @@ und Unfallversicherungen "BBT Enterprises"
 
 ## Sept. 2002 - Okt. 2005
 
-_Bambus Software GmbH, Ebikon_  
+> _Bambus Software GmbH, Ebikon_  
 \- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
 \- [Arbeitszeugnis](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf)
 
@@ -121,7 +121,7 @@ _Bambus Software GmbH, Ebikon_
 
 ## Mai 2002 - Jul. 2002
 
-_IDC AG, Sarnen (Ehemals Luzern)_  
+> _IDC AG, Sarnen (Ehemals Luzern)_  
 \- [_www.idc.ch_](http://www.idc.ch/)
 
 ### Diplomarbeit Wirtschaftsinformatiker FH: Entwurf & Implementierung
