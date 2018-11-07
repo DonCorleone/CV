@@ -14,12 +14,12 @@
 * JavaScript
 * TypeScript
 * Java
-* VBA
 
 > Mässige Kenntnisse
 
 * Flex (Actionscript)
 * Delphi (Pascal)
+* VBA
 
 ## Webtechnologien
 
