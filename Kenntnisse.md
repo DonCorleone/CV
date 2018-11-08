@@ -55,7 +55,7 @@
 
 | Sehr gute Kenntnisse | Gute Kenntnisse | Mässige Kenntnisse |
 |----------------------|-----------------|--------------------|
-| Adobe Photoshop      | Adobe InDesign  | Adobe Illustrator  |
+| Adobe InDesign       | Adobe Photoshop | Adobe Illustrator  |
 | ArchiCAD             |                 |                    |
 
 ## Sprachen
