@@ -2,6 +2,17 @@
 
 <div class="page"/>
 
+## Mai. 2018 - Heute
+
+_Microsoft Academy  
+\- [Microsoft Professional Program for Front-End Web Development](https://academy.microsoft.com/en-us/professional-program/tracks/front-end-development)
+
+### Microsoft Professional Program for Front-End Web Development
+
+> Berufsbegleitend (Selbststudium) 
+
+---
+
 ## Sept. 2009 - Mai 2014
 
 _Hochschule für Technik und Architektur Luzern, Horw_  
@@ -20,10 +31,9 @@ _Hochschule für Technik und Architektur Luzern, Horw_
 _Microsoft learning_  
 \- [www.microsoft.com/learning/](https://www.microsoft.com/de-ch/learning/)
 
-
 ### MCTS .NET 2.0 Windows Applications
 
->  Berufsbegleitend (Selbststudium)  
+> Berufsbegleitend (Selbststudium)  
 \- [Zertifikat](./docs/Zertifikate/MCTS.pdf)  
 
 ---
