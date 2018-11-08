@@ -4,12 +4,12 @@
 
 ## Mai. 2018 - Heute
 
-_Microsoft Academy  
+_Microsoft Academy_
 \- [Microsoft Professional Program for Front-End Web Development](https://academy.microsoft.com/en-us/professional-program/tracks/front-end-development)
 
 ### Microsoft Professional Program for Front-End Web Development
 
-> Berufsbegleitend (Selbststudium) 
+> Berufsbegleitend (Selbststudium)
 
 ---
 
