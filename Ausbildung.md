@@ -4,7 +4,7 @@
 
 ## Mai. 2018 - Heute
 
-_Microsoft Academy_
+_Microsoft Academy_  
 \- [https://academy.microsoft.com](https://academy.microsoft.com/en-us/professional-program/tracks/front-end-development)
 
 ### Microsoft Professional Program for Front-End Web Development
