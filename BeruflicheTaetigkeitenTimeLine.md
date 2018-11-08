@@ -2,7 +2,7 @@
 
 <div class="page"/>
 
-## Nov. 2016 - Heute
+## - Heute
 
 > _W&W Immo Informatik AG, Affoltern am Albis_  
 \- [_www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
@@ -16,7 +16,7 @@
 |---------------------------|---------------------------------------------------------|------------------|
 | .NET WPF mit MVVM-Pattern | .NET Applikationsserver (CSLA mit W&W Eigenentwicklung) | SAP SQL Anywhere |
 
-## Nov. 2011 - Okt. 2016
+## - Nov. 2016
 
 > _Bambus Software GmbH, Kriens_  
 \- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
@@ -39,7 +39,7 @@
 |---------------|----------------|------------|
 | .NET WinForms | - (Fat Client) | SQL Server |
 
-## Dez. 2010 - Okt. 2011
+## - Nov. 2011
 
 > _Sientia AG, Dübendorf_  
 \- [_www.scayla.com_](http://www.scayla.com)  
@@ -63,7 +63,7 @@
 |------------|------------------------------------|---------------------|
 | Adobe Flex | JAVA (Outsourced Eigenentwicklung) | Postgresql, MongoDB |
 
-## Nov. 2005 - Nov. 2010
+## - Dez. 2010
 
 > _BBT Software AG, Root_  
 \- [_www.bbtsoftware.ch_](http://www.bbtsoftware.ch/)  
@@ -80,7 +80,7 @@ und Unfallversicherungen "BBT Enterprises"
 |---------------|------------------------------------------------|------------|
 | .NET WinForms | .NET Applikationsserver (BBT Eigenentwicklung) | SQL Server |
 
-## Sept. 2002 - Okt. 2005
+## - Nov. 2010
 
 > _Bambus Software GmbH, Ebikon_  
 \- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
@@ -119,7 +119,7 @@ und Unfallversicherungen "BBT Enterprises"
 |-----------------|---------|-----------|
 | MS Access (VBA) | -       | MS Access |
 
-## Mai 2002 - Jul. 2002
+## - Sept. 2002
 
 > _IDC AG, Sarnen (Ehemals Luzern)_  
 \- [_www.idc.ch_](http://www.idc.ch/)
