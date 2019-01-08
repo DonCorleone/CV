@@ -20,7 +20,7 @@ _W3Cx_
 
 ### Front-End Web Developer
 
-> Berufsbegleitend (Selbststudium)
+> Berufsbegleitend (Selbststudium)  
 \- [Zertifikat](https://credentials.edx.org/records/programs/shared/ec6cf99790064cbaaccaf6d99578a361)  
 
 ---
