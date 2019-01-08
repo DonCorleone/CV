@@ -4,10 +4,11 @@
 
 ## Webtechnologien
 
-| Zertifikat | Stand |
-|-------------------|--------------------------|
-|[W3C Front-End Web Developer](https://credentials.edx.org/records/programs/shared/ec6cf99790064cbaaccaf6d99578a361/)|Zertifitiert seit Dez. 2018 |
- [Microsoft Professional Program for Front-End Web Development](https://academy.microsoft.com/en-us/professional-program/tracks/front-end-development) | Stand: 4 von 12 Teilzertifizierungen
+| Zertifiziert      | Zur Zeit im Selbsstudium | Austehend                      |
+|-------------------|--------------------------|--------------------------------|
+| HTML (W3Cx)       | jQuery (Microsoft)       | Angular oder React (Microsoft) |
+| CSS (W3Cx)        | CSS Advanced (Microsoft) | Azure (Microsoft)              |
+| JavaScript (W3Cx) | Bootstrap (Microsoft)    | DevOps (Microsoft)             |
 
 ## Betriebssysteme
 
