@@ -4,9 +4,10 @@
 
 ## Webtechnologien
 
-| Erlangte Zertifikate    | Zur Zeit im Lern- / Zertifizierungsprozess                  |
+| Zertifikat | Stand |
 |-------------------|--------------------------|
-|[W3C Front-End Web Developer](https://credentials.edx.org/records/programs/shared/ec6cf99790064cbaaccaf6d99578a361/)|[Microsoft Professional Program for Front-End Web Development](https://academy.microsoft.com/en-us/professional-program/tracks/front-end-development) (Stand: 4 von 12)
+|[W3C Front-End Web Developer](https://credentials.edx.org/records/programs/shared/ec6cf99790064cbaaccaf6d99578a361/)|Zertifitiert seit Dez. 2018 |
+ [Microsoft Professional Program for Front-End Web Development](https://academy.microsoft.com/en-us/professional-program/tracks/front-end-development) | Stand: 4 von 12 Teilzertifizierungen
 
 ## Betriebssysteme
 
