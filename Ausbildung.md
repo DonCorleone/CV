@@ -13,6 +13,18 @@ _Microsoft Academy_
 
 ---
 
+## Mai. 2018 - Dez.2018
+
+_W3Cx_  
+\- [w3cx.org/](https://w3cx.org/)
+
+### Front-End Web Developer
+
+> Berufsbegleitend (Selbststudium)
+\- [Zertifikat](https://credentials.edx.org/records/programs/shared/ec6cf99790064cbaaccaf6d99578a361)  
+
+---
+
 ## Sept. 2009 - Mai 2014
 
 _Hochschule für Technik und Architektur Luzern, Horw_  
