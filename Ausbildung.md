@@ -13,10 +13,10 @@ _Microsoft Academy_
 
 ---
 
-## Mai. 2018 - Dez.2018
+## Mai. 2018 - Dez. 2018
 
 _W3Cx_  
-\- [w3cx.org/](https://w3cx.org/)
+\- [w3cx.org](https://w3cx.org/)
 
 ### Front-End Web Developer
 
