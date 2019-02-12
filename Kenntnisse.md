@@ -8,9 +8,10 @@
 
 | Zertifiziert      | Zur Zeit im Selbsstudium | Austehend                      |
 |-------------------|--------------------------|--------------------------------|
-| HTML (W3Cx)       | jQuery (Microsoft)       | Angular oder React (Microsoft) |
+| HTML (W3Cx)       | TypeScript (Microsoft)   | Angular oder React (Microsoft) |
 | CSS (W3Cx)        | CSS Advanced (Microsoft) | Azure (Microsoft)              |
 | JavaScript (W3Cx) | Bootstrap (Microsoft)    | DevOps (Microsoft)             |
+| jQuery (Microsoft)|                          |                                |
 
 ## Betriebssysteme
 
