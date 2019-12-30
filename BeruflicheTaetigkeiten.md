@@ -22,7 +22,7 @@
 
 > _Bambus Software GmbH, Kriens_  
 \- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
-\- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf)
+<!-- \- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2016_Bambus_GmbH.pdf) -->
 
 ### Backend- Applikationsentwickler
 
@@ -45,7 +45,7 @@
 
 > _Sientia AG, Dübendorf_  
 \- [_www.scayla.com_](http://www.scayla.com)  
-\- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf)
+<!-- \- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2011_SientiaAG.pdf) -->
 
 ### Fullstack- Applikationsentwickler Web Client
 
@@ -69,7 +69,7 @@
 
 > _BBT Software AG, Root_  
 \- [_www.bbtsoftware.ch_](http://www.bbtsoftware.ch/)  
-\- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2010_BBTAG.pdf)
+<!-- \- [Arbeitszeugnis](/docs/Arbeitszeugnisse/2010_BBTAG.pdf) -->
 
 ### Full Stack- Applikationsentwickler / Prozessbereichs- Verantwortlicher
 
@@ -86,7 +86,7 @@ und Unfallversicherungen "BBT Enterprises"
 
 > _Bambus Software GmbH, Ebikon_  
 \- [_www.bambus-software.ch_](http://www.bambus-software.ch/#/home)  
-\- [Arbeitszeugnis](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf)
+<!-- \- [Arbeitszeugnis](docs/Arbeitszeugnisse/2005_BambusGmbH.pdf) -->
 
 ### Fullstack- Applikationsentwickler (Architektur & Programmierung)
 
