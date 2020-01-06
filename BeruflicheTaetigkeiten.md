@@ -18,6 +18,8 @@
 |---------------------------|---------------------------------------------------------|------------------|
 | Angular 7+, Nitronet Rendering (Terrific JS, Handlebars) | Sitecore WCMS (ASP.NET MVC) | MS SQL Server |
 
+<br />
+
 ## Nov. 2016 - Mai 2019
 
 > _W&W Immo Informatik AG, Affoltern am Albis_  
@@ -31,6 +33,8 @@
 | Frontend                  | Backend                                                 | Database         |
 |---------------------------|---------------------------------------------------------|------------------|
 | .NET WPF mit MVVM-Pattern | .NET Applikationsserver (CSLA mit W&W Eigenentwicklung) | SAP SQL Anywhere |
+
+<br />
 
 ## Nov. 2011 - Okt. 2016
 
@@ -54,6 +58,8 @@
 | Frontend      | Backend        | Database   |
 |---------------|----------------|------------|
 | .NET WinForms | - (Fat Client) | SQL Server |
+
+<br />
 
 ## Dez. 2010 - Okt. 2011
 
@@ -79,6 +85,8 @@
 |------------|------------------------------------|---------------------|
 | Adobe Flex | JAVA (Outsourced Eigenentwicklung) | Postgresql, MongoDB |
 
+<br />
+
 ## Nov. 2005 - Nov. 2010
 
 > _BBT Software AG, Root_  
@@ -95,6 +103,8 @@ und Unfallversicherungen "BBT Enterprises"
 | Frontend      | Backend                                        | Database   |
 |---------------|------------------------------------------------|------------|
 | .NET WinForms | .NET Applikationsserver (BBT Eigenentwicklung) | SQL Server |
+
+<br />
 
 ## Sept. 2002 - Okt. 2005
 
@@ -134,6 +144,8 @@ und Unfallversicherungen "BBT Enterprises"
 | Frontend        | Backend | Database  |
 |-----------------|---------|-----------|
 | MS Access (VBA) | -       | MS Access |
+
+<br />
 
 ## Mai 2002 - Jul. 2002
 
