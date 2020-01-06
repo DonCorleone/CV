@@ -4,7 +4,21 @@
 
 <div class="page"/>
 
-## Nov. 2016 - Heute
+## Jun. 2019 - Heute
+
+> _Suva, Luzern_  
+\- [_www.suva.ch_](https://www.suva.ch)
+
+### ASP.NET MVC / Sitecore Developer
+
+> Scrum Dev-Team Member 'hyperlink' (suva.ch)  
+\- [Onlineauftritt Suva](https://www.suva.ch)
+
+| Frontend                  | Backend                                                 | Database         |
+|---------------------------|---------------------------------------------------------|------------------|
+| Angular 7+, Nitronet Rendering (Terrific JS, Handlebars) | Sitecore WCMS (ASP.NET MVC) | MS SQL Server |
+
+## Nov. 2016 - Mai 2019
 
 > _W&W Immo Informatik AG, Affoltern am Albis_  
 \- [_www.wwimmo.ch_](https://www.wwimmo.ch/home.html)
