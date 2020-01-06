@@ -18,7 +18,7 @@
 |---------------------------|---------------------------------------------------------|------------------|
 | Angular 7+, Nitronet Rendering (Terrific JS, Handlebars) | Sitecore WCMS (ASP.NET MVC) | MS SQL Server |
 
-<br />
+&nbsp;
 
 ## Nov. 2016 - Mai 2019
 
@@ -34,7 +34,7 @@
 |---------------------------|---------------------------------------------------------|------------------|
 | .NET WPF mit MVVM-Pattern | .NET Applikationsserver (CSLA mit W&W Eigenentwicklung) | SAP SQL Anywhere |
 
-<br />
+&nbsp;
 
 ## Nov. 2011 - Okt. 2016
 
@@ -59,7 +59,7 @@
 |---------------|----------------|------------|
 | .NET WinForms | - (Fat Client) | SQL Server |
 
-<br />
+&nbsp;
 
 ## Dez. 2010 - Okt. 2011
 
@@ -85,7 +85,7 @@
 |------------|------------------------------------|---------------------|
 | Adobe Flex | JAVA (Outsourced Eigenentwicklung) | Postgresql, MongoDB |
 
-<br />
+&nbsp;
 
 ## Nov. 2005 - Nov. 2010
 
@@ -104,7 +104,7 @@ und Unfallversicherungen "BBT Enterprises"
 |---------------|------------------------------------------------|------------|
 | .NET WinForms | .NET Applikationsserver (BBT Eigenentwicklung) | SQL Server |
 
-<br />
+&nbsp;
 
 ## Sept. 2002 - Okt. 2005
 
@@ -145,7 +145,7 @@ und Unfallversicherungen "BBT Enterprises"
 |-----------------|---------|-----------|
 | MS Access (VBA) | -       | MS Access |
 
-<br />
+&nbsp;
 
 ## Mai 2002 - Jul. 2002
 
